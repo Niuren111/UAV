@@ -1,0 +1,1 @@
+import{j as a,a as e,C as r,T as s}from"./index-5a5e651b.js";const{Title:l}=s,o=()=>a("div",{className:"profile-page",children:[e(l,{level:2,children:"个人中心"}),e(r,{children:e("p",{children:"个人中心页面正在开发中..."})})]});export{o as default};

@@ -1,0 +1,1 @@
+import{j as r,a,C as s,T as e}from"./index-5a5e651b.js";const{Title:t}=e,n=()=>r("div",{className:"transport-page",children:[a(t,{level:2,children:"无人机运输服务平台"}),a(s,{children:a("p",{children:"无人机运输服务页面正在开发中..."})})]});export{n as default};

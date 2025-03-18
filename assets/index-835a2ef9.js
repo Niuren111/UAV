@@ -1,0 +1,1 @@
+import{j as a,a as e,C as l,T as s}from"./index-5a5e651b.js";const{Title:r}=s,d=()=>a("div",{className:"low-altitude-page",children:[e(r,{level:2,children:"低空空乘订座平台"}),e(l,{children:e("p",{children:"低空空乘订座页面正在开发中..."})})]});export{d as default};
